@@ -31,7 +31,7 @@ body {
   background: #f0f0f0;
   margin-top: 20px;
   margin-right: 20px;
-  width: 75%;
+  width: 97%;
 }
 
 .about {
@@ -42,4 +42,11 @@ body {
   padding: 10px;
   background: #f0f0f0;
   margin-top: 20px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
 }
