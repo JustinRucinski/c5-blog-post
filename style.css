@@ -9,3 +9,23 @@ body {
   text-align: center;
   border: 1px solid black;
 }
+
+.container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.blog {
+  border: 1px solid black;
+  width: 800px;
+  padding: 10px;
+}
+
+.about {
+  padding-left: 20px;
+  border: 1px solid black;
+  width: 200px;
+  margin-left: 20px;
+  padding: 5px;
+}
